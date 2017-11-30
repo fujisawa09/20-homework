@@ -19,3 +19,10 @@ a {
 body {
   font: 14px "ヒラギノ明朝 ProN W6", "HiraMinProN-W6", "HG明朝E", "ＭＳ Ｐ明朝", "MS PMincho", "MS 明朝", serif;
 }
+
+.header-top {
+  padding: 10px 0 13px;
+  background: url(../img/bg_line.png) repeat left bottom;
+  text-align: right;
+  color: #959595;
+}
