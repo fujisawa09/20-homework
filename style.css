@@ -26,3 +26,12 @@ body {
   text-align: right;
   color: #959595;
 }
+
+.inner {
+  width: 1200px;
+  margin:0 auto;
+}
+
+.keyword {
+  font-size: 12px;
+}
