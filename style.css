@@ -219,3 +219,12 @@ body {
   background: url(../img/bg_highlight.png) repeat-x left bottom;
   padding: 0 10px;
 }
+
+.footer {
+  margin-top: 50px;
+  background: #52555e;
+  padding: 40px 0 10px;
+  text-align: right;
+  color: #fff;
+  font-size: 10px;
+}
