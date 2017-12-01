@@ -47,3 +47,11 @@ body {
 .header-main {
   padding: 30px 0;
 }
+
+.logo {
+  float: left;
+}
+
+.logo img {
+  width: 300px;
+}
