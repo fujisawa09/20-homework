@@ -149,3 +149,9 @@ body {
 .section-content {
   margin: 20px auto;
 }
+
+.box-gallery {
+  width: 370px;
+  float: left;
+  margin-bottom: 20px;
+}
