@@ -79,3 +79,10 @@ body {
 .nav img {
   width: 100%;
 }
+
+.nav-text {
+  font-size: 12px;
+  display: block;
+  margin-top: 5px;
+  color: #555;
+}
