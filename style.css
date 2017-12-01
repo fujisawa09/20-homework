@@ -68,3 +68,10 @@ body {
 .nav {
   float: right;
 }
+
+.nav li {
+  width: 100px;
+  float: left;
+  margin-left: 14px;
+  text-align: center;
+}
