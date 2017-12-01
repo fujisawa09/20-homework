@@ -173,3 +173,9 @@ body {
   opacity: .7;
   transform: scale(1.2);
 }
+
+.gallery-title {
+  margin-top: 10px;
+  font-size: 18px;
+  color: #666;
+}
