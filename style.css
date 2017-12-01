@@ -179,3 +179,37 @@ body {
   font-size: 18px;
   color: #666;
 }
+
+.article {
+  width: 280px;
+  margin-right: 26px;
+  float: left;
+}
+
+.article:last-child {
+  margin-right: 0;
+}
+
+.article-time {
+  color: #959595;
+  font-size: 12px;
+  display: block;
+  margin: 5px 0 10px;
+}
+
+.article-image {
+  transition: 1s;
+}
+
+.article-image img {
+  height: 200px;
+}
+
+.article-image:hover {
+  opacity: .8;
+}
+
+.article-title {
+  font-size: 18px;
+  color: #555;
+}
