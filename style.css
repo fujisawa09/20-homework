@@ -117,3 +117,17 @@ body {
   font-weight: bold;
   animation: newsblink 1.3s infinite;
 }
+
+@keyframes newsblink {
+  0% {
+    background: transparent;
+  }
+
+  50% {
+    background: #ffff69;
+  }
+
+  100% {
+    background: transparent;
+  }
+}
