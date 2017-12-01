@@ -131,3 +131,21 @@ body {
     background: transparent;
   }
 }
+
+.section {
+  padding: 50px 0 0;
+}
+
+.section-header {
+  width: 1000px;
+  margin: 0 auto;
+  background: url(../img/bg_line.png) repeat left bottom;
+  padding: 5px 0;
+  text-align: center;
+  font-size: 18px;
+  color: #666;
+}
+
+.section-content {
+  margin: 20px auto;
+}
