@@ -55,3 +55,12 @@ body {
 .logo img {
   width: 300px;
 }
+
+.logo-copy {
+  font-size: 14px;
+  letter-spacing: 2px;
+  color: #555;
+  display: block;
+  margin-top: 12px;
+  font-weight: normal;
+}
