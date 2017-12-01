@@ -213,3 +213,9 @@ body {
   font-size: 18px;
   color: #555;
 }
+
+.highlight {
+  display: inline-block;
+  background: url(../img/bg_highlight.png) repeat-x left bottom;
+  padding: 0 10px;
+}
