@@ -155,3 +155,21 @@ body {
   float: left;
   margin-bottom: 20px;
 }
+
+.box-middle {
+  margin: 0 45px 20px;
+}
+
+.image-box {
+  overflow: hidden;
+  height: 240px;
+}
+
+.image-box img {
+  transition: .8s;
+}
+
+.image-box:hover img {
+  opacity: .7;
+  transform: scale(1.2);
+}
